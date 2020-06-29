@@ -1,3 +1,7 @@
 # Binary Release Repository
 
-* Add Screen binary for GKE Nodes
+* Add most used binary utility (utils.tgz)
+    *   screen (gke nodes)
+    *   some of sysstats binary
+    *   busybox static
+    *   strace static
